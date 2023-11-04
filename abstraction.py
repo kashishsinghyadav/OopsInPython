@@ -18,7 +18,7 @@ class Bankdata(ABC):
     @abstractmethod 
     def secure(self):
         pass
-
+ 
 class Webdata(Bankdata):
     def App(self):
         print('app connected')
