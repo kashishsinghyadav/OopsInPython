@@ -3,7 +3,7 @@ class Atm:
         self.__pin=""
         self.__bal=0
         self.menu()
-
+ 
 
     def menu(self):
         user_input=input("""
