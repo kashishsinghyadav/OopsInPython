@@ -1,0 +1,26 @@
+Object oriented programming is a paradims of computer science which used Object and class rather than using the function 
+The word object-oriented is the combination of two words i.e. object and oriented. The dictionary meaning of the object is an article or entity that exists in the real world
+where class is blue print of an object
+
+It is the most popular programming model among developers. 
+It is well suited for programs that are large, complex, and actively updated or maintained. 
+It simplifies software development and maintenance by providing major concepts such as abstraction, inheritance, polymorphism, and encapsulation.
+ These core concepts support OOP.
+
+Points to Remember
+Everything is an object
+Developer manipulates objects that uses message passing.
+Every object is an instance of a class.
+The class contains the attribute and behavior associated with an object.
+
+
+Pillars of OOPs
+The major concepts that we have discussed above are known as pillars of OOPs. There are four pillars on which OOP rests.
+
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+
+
+
