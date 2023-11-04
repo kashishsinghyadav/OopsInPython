@@ -6,5 +6,5 @@ class Meta:
     def __init__(self):
         print('this is constructor')
 
-
+ 
 obj =Meta()
