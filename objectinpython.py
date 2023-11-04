@@ -5,7 +5,7 @@
 
 # how to create object in python
 
-class Meta:
+class Meta: 
     print('hiiiiii')
 
 object=Meta() # this is how we craeted the object in python
