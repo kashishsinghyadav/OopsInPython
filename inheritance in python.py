@@ -6,7 +6,7 @@ class M:
     def fun(self):
         print('this is parent class constructor')
 
-class Beta(M):
+class Beta(M): 
     def fun(self):
         super().fun()
         print('this is base class construtor')
